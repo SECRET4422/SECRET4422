@@ -1,36 +1,90 @@
-<h1 align="center">Hi, I'm Prabhakar Pal 👋</h1>
-
 <p align="center">
-  <b>I build MCP servers and AI dev tooling.</b><br>
-  <sub>Deep research · code security · LLM agents · TypeScript & Python</sub>
+  <img src="assets/signature-banner.svg" width="1000" alt="Prabhakar Pal — MCP developer, AI tooling and open source. Handwritten signature over a moonlit mountain forest with an original hooded developer illustration." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SECRET4422?tab=followers"><img src="https://img.shields.io/github/followers/SECRET4422?style=for-the-badge&logo=github&color=0d1117&labelColor=0d1117" alt="followers"></a>
-  <a href="https://orcid.org/0009-0004-1069-156X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="orcid"></a>
-  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP_Developer-0d1117?style=for-the-badge&logo=anthropic" alt="mcp"></a>
+  <strong>Better research. Safer code. Less friction.</strong><br />
+  I’m Prabhakar — building MCP servers and tools for the people building with AI.
 </p>
-
----
-
-### 🔭 What I'm building
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Deep Research MCP](https://github.com/SECRET4422/mcp-deep-research-server)** | Gives Claude real research: search → parallel scrape 3-8 sources → synthesize with citations → fact-check. No API key. | TypeScript · MCP |
-| **[Guardrail MCP](https://github.com/SECRET4422/guardrail-mcp)** | Catches security bugs in AI-generated code — taint analysis across multiple languages. | Python · MCP |
-
-### 🧰 Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,react,vite,docker,git,linux" alt="stack">
-</p>
-
-### 📊 Activity
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SECRET4422&show_icons=true&hide_border=true&theme=github_dark&hide=issues&count_private=true">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SECRET4422&layout=compact&hide_border=true&theme=github_dark&langs_count=6">
+  <a href="#the-person-behind-the-code">About me</a> ·
+  <a href="#selected-work">Projects</a> ·
+  <a href="#open-source-toolbox">Toolbox</a> ·
+  <a href="https://orcid.org/0009-0004-1069-156X">ORCID ↗</a>
 </p>
 
-<sub>📍 Dehradun, India · open to collaboration on open-source AI tooling</sub>
+<img src="assets/profile-stats.svg" width="1000" alt="GitHub snapshot on 12 October 2026: 14 public repositories, 13 original repositories, 4 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
+
+<sub>Public GitHub data · Snapshot: 12 October 2026 · All metrics and charts below are static, not live counters.</sub>
+
+<a id="the-person-behind-the-code"></a>
+
+## The person behind the code
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/about.svg" width="480" alt="Prabhakar Pal: MCP developer and AI tooling builder. I build tools that help AI agents research better, catch security issues, and get developers unstuck. TypeScript and Python." /></td>
+    <td width="50%"><img src="assets/languages.svg" width="480" alt="Primary languages across original public repositories: TypeScript 5, JavaScript 3, Python 1. Excludes forks and repos without a detected language. These are repository counts, not code volume or skill ratings." /></td>
+  </tr>
+</table>
+
+## A little progress, every day
+
+<a href="https://github.com/SECRET4422?tab=overview"><img src="assets/activity.svg" width="1000" alt="75 contributions from 13 October 2025 to 12 October 2026. GitHub API snapshot, not a live counter. Open GitHub for current activity." /></a>
+
+## The tools & the direction
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/toolkit.svg" width="480" alt="My toolkit: TypeScript, Python, JavaScript, React, Node.js and Git." /></td>
+    <td width="50%"><img src="assets/focus.svg" width="480" alt="My focus: deep research, safer code for AI agents, and better developer workflows." /></td>
+  </tr>
+</table>
+
+<a id="selected-work"></a>
+
+## Selected work
+
+Four tools. One direction: make AI-assisted development more reliable, from the first search to the final check. **Select any card to explore its repository.**
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/SECRET4422/mcp-deep-research-server"><img src="assets/mcp-deep-research-server.svg" width="480" alt="Deep Research MCP — parallel research, cited synthesis, fact-checking and persistent memory. TypeScript. Open repository." /></a></td>
+    <td width="50%"><a href="https://github.com/SECRET4422/guardrail-mcp"><img src="assets/guardrail-mcp.svg" width="480" alt="Guardrail MCP — multi-language security analysis, policy gates and SARIF/SBOM reporting. Python. Open repository." /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/SECRET4422/loopbreaker"><img src="assets/loopbreaker.svg" width="480" alt="Loopbreaker — autonomous AI bug-loop interrupter and circuit breaker. TypeScript. Open repository." /></a></td>
+    <td width="50%"><a href="https://github.com/SECRET4422/autosmoke"><img src="assets/autosmoke.svg" width="480" alt="Autosmoke — zero-code invariant and regression checks for local development servers. TypeScript. Open repository." /></a></td>
+  </tr>
+</table>
+
+<br />
+
+<img src="assets/workflow.svg" width="1000" alt="The AI tooling loop: research sources and verify claims; secure code with guardrails; unblock repetitive bug loops; validate invariants and catch regressions." />
+
+<a id="open-source-toolbox"></a>
+
+## Open-source toolbox
+
+Useful places to explore, learn, and contribute.
+
+<table>
+  <tr>
+    <td width="25%"><a href="https://github.com/SECRET4422?tab=repositories"><img src="assets/toolbox-repositories.svg" width="240" alt="Source code — browse my public repositories." /></a></td>
+    <td width="25%"><a href="https://modelcontextprotocol.io/docs/getting-started/intro"><img src="assets/toolbox-docs.svg" width="240" alt="Reading desk — read the official Model Context Protocol documentation." /></a></td>
+    <td width="25%"><a href="https://github.com/SECRET4422/mcp-deep-research-server/issues"><img src="assets/toolbox-issues.svg" width="240" alt="Contribute — discuss ideas or report a bug in Deep Research MCP." /></a></td>
+    <td width="25%"><a href="https://orcid.org/0009-0004-1069-156X"><img src="assets/toolbox-orcid.svg" width="240" alt="Research ID — find my ORCID profile." /></a></td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>Have an idea? Here’s a good place to start.</strong></summary>
+
+<p>If you’re working on research agents, code security, or developer tooling, take a look at the projects above. Open an issue in the relevant repository with the problem you’re trying to solve, an example, and what a useful result would look like. Small fixes and thoughtful bug reports are welcome too.</p>
+
+</details>
+
+<br />
+
+<a href="https://github.com/SECRET4422?tab=repositories"><img src="assets/footer.svg" width="1000" alt="Let’s build something useful. Open to collaboration on open-source AI tooling. Browse my repositories." /></a>
