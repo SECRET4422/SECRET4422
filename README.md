@@ -1,22 +1,23 @@
 <p align="center">
-  <img src="signature-banner.svg" width="1000" alt="Prabhakar Pal — MCP developer, AI tooling and open source. Handwritten signature over a moonlit mountain forest with an original hooded developer illustration." />
+  <img src="signature-banner.svg" width="1000" alt="Prabhakar Pal — Autonomous Systems, AI Tooling and Open Source. Handwritten signature over a moonlit mountain forest with an original hooded developer illustration." />
 </p>
 
 <p align="center">
-  <strong>Better research. Safer code. Less friction.</strong><br />
-  I’m Prabhakar — building MCP servers and tools for the people building with AI.
+  <strong>Autonomous AI Agents · Developer Platforms · Zero-Friction Tooling</strong><br />
+  I’m Prabhakar — Founder &amp; Lead Architect at AlphaTech Studio. Building high-moat open-source infrastructure for developers building with AI.
 </p>
 
 <p align="center">
   <a href="#the-person-behind-the-code">About me</a> ·
-  <a href="#selected-work">Projects</a> ·
+  <a href="#flagship-platforms">Flagship Platforms</a> ·
+  <a href="#quick-launch">Quick Launch</a> ·
   <a href="#open-source-toolbox">Toolbox</a> ·
   <a href="https://orcid.org/0009-0004-1069-156X">ORCID ↗</a>
 </p>
 
-<img src="profile-stats.svg" width="1000" alt="GitHub snapshot on 12 October 2026: 14 public repositories, 13 original repositories, 4 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
+<img src="profile-stats.svg" width="1000" alt="GitHub snapshot on 20 October 2026: 18 public repositories, 16 original repositories, 5 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
 
-<sub>Public GitHub data · Snapshot: 12 October 2026 · All metrics and charts below are static, not live counters.</sub>
+<sub>Public GitHub data · Snapshot: 20 October 2026 · All metrics and charts below are static, not live counters.</sub>
 
 <a id="the-person-behind-the-code"></a>
 
@@ -25,13 +26,13 @@
 <table>
   <tr>
     <td width="50%"><img src="about.svg" width="480" alt="Prabhakar Pal: MCP developer and AI tooling builder. I build tools that help AI agents research better, catch security issues, and get developers unstuck. TypeScript and Python." /></td>
-    <td width="50%"><img src="languages.svg" width="480" alt="Primary languages across original public repositories: TypeScript 5, JavaScript 3, Python 1. Excludes forks and repos without a detected language. These are repository counts, not code volume or skill ratings." /></td>
+    <td width="50%"><img src="languages.svg" width="480" alt="Primary languages across original public repositories: TypeScript 8, JavaScript 3, Python 2. Excludes forks and repos without a detected language. These are repository counts, not code volume or skill ratings." /></td>
   </tr>
 </table>
 
 ## A little progress, every day
 
-<a href="https://github.com/SECRET4422?tab=overview"><img src="activity.svg" width="1000" alt="75 contributions from 13 October 2025 to 12 October 2026. GitHub API snapshot, not a live counter. Open GitHub for current activity." /></a>
+<a href="https://github.com/SECRET4422?tab=overview"><img src="activity.svg" width="1000" alt="Contributions overview. GitHub API snapshot, not a live counter. Open GitHub for current activity." /></a>
 
 ## The tools & the direction
 
@@ -42,22 +43,47 @@
   </tr>
 </table>
 
-<a id="selected-work"></a>
+<a id="flagship-platforms"></a>
 
-## Selected work
+## Flagship Platforms &amp; Developer Tools
 
-Four tools. One direction: make AI-assisted development more reliable, from the first search to the final check. **Select any card to explore its repository.**
+Mission-critical open-source tooling for modern AI agent engineering. **Select any card to explore its repository.**
 
 <table>
+  <tr>
+    <td width="50%"><a href="https://github.com/SECRET4422/agent-cockpit"><img src="agent-cockpit.svg" width="480" alt="Agent Cockpit — Real-time visual telemetry HUD & circuit breaker for AI coding agents. TypeScript. Open repository." /></a></td>
+    <td width="50%"><a href="https://github.com/SECRET4422/vision-craft"><img src="vision-craft.svg" width="480" alt="VisionCraft — Screenshot-to-Fullstack Live Sandbox with 1:1 ghost diff slider. TypeScript. Open repository." /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/SECRET4422/visual-smoke"><img src="visual-smoke.svg" width="480" alt="VisualSmoke — Zero-code automated localhost visual smoke testing & DOM invariant guard. TypeScript. Open repository." /></a></td>
+    <td width="50%"><a href="https://github.com/SECRET4422/loopbreaker"><img src="loopbreaker.svg" width="480" alt="Loopbreaker — autonomous AI bug-loop interrupter and circuit breaker. TypeScript. Open repository." /></a></td>
+  </tr>
   <tr>
     <td width="50%"><a href="https://github.com/SECRET4422/mcp-deep-research-server"><img src="mcp-deep-research-server.svg" width="480" alt="Deep Research MCP — parallel research, cited synthesis, fact-checking and persistent memory. TypeScript. Open repository." /></a></td>
     <td width="50%"><a href="https://github.com/SECRET4422/guardrail-mcp"><img src="guardrail-mcp.svg" width="480" alt="Guardrail MCP — multi-language security analysis, policy gates and SARIF/SBOM reporting. Python. Open repository." /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/SECRET4422/loopbreaker"><img src="loopbreaker.svg" width="480" alt="Loopbreaker — autonomous AI bug-loop interrupter and circuit breaker. TypeScript. Open repository." /></a></td>
     <td width="50%"><a href="https://github.com/SECRET4422/autosmoke"><img src="autosmoke.svg" width="480" alt="Autosmoke — zero-code invariant and regression checks for local development servers. TypeScript. Open repository." /></a></td>
+    <td width="50%"><a href="https://github.com/SECRET4422/crypto-wallet-app"><img src="toolbox-repositories.svg" width="480" alt="Multi-chain crypto wallet with a modern React UI. Open repository." /></a></td>
   </tr>
 </table>
+
+<a id="quick-launch"></a>
+
+### ⚡ Quick Launch (Zero Install)
+
+Run any tool directly in your terminal without manual cloning:
+
+```bash
+# Real-time visual telemetry HUD for AI coding agents (port 3333)
+npx @ssgk4422/agent-cockpit
+
+# Screenshot-to-fullstack UI sandbox with 1:1 ghost diffs (port 5050)
+npx vision-craft
+
+# Zero-code localhost regression guard & WSOD detector (port 4040)
+npx visual-smoke --ci http://localhost:3000
+```
 
 <br />
 
@@ -81,7 +107,7 @@ Useful places to explore, learn, and contribute.
 <details>
 <summary><strong>Have an idea? Here’s a good place to start.</strong></summary>
 
-<p>If you’re working on research agents, code security, or developer tooling, take a look at the projects above. Open an issue in the relevant repository with the problem you’re trying to solve, an example, and what a useful result would look like. Small fixes and thoughtful bug reports are welcome too.</p>
+<p>If you’re working on autonomous agents, code security, or developer tooling, take a look at the projects above. Open an issue in the relevant repository with the problem you’re trying to solve, an example, and what a useful result would look like. Small fixes and thoughtful bug reports are welcome too.</p>
 
 </details>
 
