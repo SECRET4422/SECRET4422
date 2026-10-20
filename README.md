@@ -15,7 +15,7 @@
   <a href="https://orcid.org/0009-0004-1069-156X">ORCID ↗</a>
 </p>
 
-<img src="profile-stats.svg" width="1000" alt="GitHub snapshot on 20 October 2026: 18 public repositories, 16 original repositories, 5 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
+<img src="profile-stats.svg" width="1000" alt="GitHub snapshot on 20 October 2026: 17 public repositories, 15 original repositories, 5 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
 
 <sub>Public GitHub data · Snapshot: 20 October 2026 · All metrics and charts below are static, not live counters.</sub>
 
@@ -63,8 +63,7 @@ Mission-critical open-source tooling for modern AI agent engineering. **Select a
     <td width="50%"><a href="https://github.com/SECRET4422/guardrail-mcp"><img src="guardrail-mcp.svg" width="480" alt="Guardrail MCP — multi-language security analysis, policy gates and SARIF/SBOM reporting. Python. Open repository." /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/SECRET4422/autosmoke"><img src="autosmoke.svg" width="480" alt="Autosmoke — zero-code invariant and regression checks for local development servers. TypeScript. Open repository." /></a></td>
-    <td width="50%"><a href="https://github.com/SECRET4422/crypto-wallet-app"><img src="toolbox-repositories.svg" width="480" alt="Multi-chain crypto wallet with a modern React UI. Open repository." /></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/SECRET4422/autosmoke"><img src="autosmoke.svg" width="480" alt="Autosmoke — zero-code invariant and regression checks for local development servers. TypeScript. Open repository." /></a></td>
   </tr>
 </table>
 
