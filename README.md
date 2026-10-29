@@ -15,9 +15,9 @@
   <a href="https://orcid.org/0009-0004-1069-156X">ORCID ↗</a>
 </p>
 
-<img src="profile-stats.svg" width="1000" alt="GitHub snapshot on 20 October 2026: 17 public repositories, 15 original repositories, 5 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
+<img src="profile-stats.svg" width="1000" alt="GitHub snapshot on 29 October 2026: 19 public repositories, 13 original repositories, 5 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
 
-<sub>Public GitHub data · Snapshot: 20 October 2026 · All metrics and charts below are static, not live counters.</sub>
+<sub>Public GitHub data · Snapshot: 29 October 2026 · All metrics and charts below are static, not live counters.</sub>
 
 <a id="the-person-behind-the-code"></a>
 
