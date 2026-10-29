@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td width="50%"><img src="about.svg" width="480" alt="Prabhakar Pal: MCP developer and AI tooling builder. I build tools that help AI agents research better, catch security issues, and get developers unstuck. TypeScript and Python." /></td>
-    <td width="50%"><img src="languages.svg" width="480" alt="Primary languages across original public repositories: TypeScript 8, JavaScript 3, Python 2. Excludes forks and repos without a detected language. These are repository counts, not code volume or skill ratings." /></td>
+    <td width="50%"><img src="languages.svg" width="480" alt="Primary languages across original public repositories: TypeScript 8, JavaScript 2, Python 1. Excludes forks and repos without a detected language. These are repository counts, not code volume or skill ratings." /></td>
   </tr>
 </table>
 
