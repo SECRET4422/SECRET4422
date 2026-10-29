@@ -3,21 +3,20 @@
 </p>
 
 <p align="center">
-  <strong>Autonomous AI Agents · Developer Platforms · Zero-Friction Tooling</strong><br />
-  I’m Prabhakar — Founder &amp; Lead Architect at AlphaTech Studio. Building high-moat open-source infrastructure for developers building with AI.
+  <strong>Autonomous AI Agents · MCP Infrastructure · Developer Security</strong><br />
+  I’m Prabhakar — Founder &amp; Lead Architect at AlphaTech Studio. Building open-source infrastructure that makes AI agents more capable, secure, and useful.
 </p>
 
 <p align="center">
-  <a href="#the-person-behind-the-code">About me</a> ·
-  <a href="#flagship-platforms">Flagship Platforms</a> ·
-  <a href="#quick-launch">Quick Launch</a> ·
-  <a href="#open-source-toolbox">Toolbox</a> ·
+  <a href="https://alphatech.studio">AlphaTech Studio ↗</a> ·
+  <a href="https://github.com/SECRET4422?tab=repositories">Explore my work ↗</a> ·
+  <a href="#flagship-platforms">Flagship platforms</a> ·
   <a href="https://orcid.org/0009-0004-1069-156X">ORCID ↗</a>
 </p>
 
-<img src="profile-stats.svg" width="1000" alt="GitHub snapshot on 20 October 2026: 17 public repositories, 15 original repositories, 5 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
+<img src="profile-stats.svg" width="1000" alt="GitHub snapshot on 29 October 2026: 19 public repositories, 15 original repositories, 5 stars across original repositories, and 3 distinct primary languages among original repositories with a detected language." />
 
-<sub>Public GitHub data · Snapshot: 20 October 2026 · All metrics and charts below are static, not live counters.</sub>
+<sub>Public GitHub data · Snapshot: 29 October 2026 · All metrics and charts below are static, not live counters.</sub>
 
 <a id="the-person-behind-the-code"></a>
 
@@ -34,7 +33,7 @@
 
 <a href="https://github.com/SECRET4422?tab=overview"><img src="activity.svg" width="1000" alt="Contributions overview. GitHub API snapshot, not a live counter. Open GitHub for current activity." /></a>
 
-## The tools & the direction
+## The tools &amp; the direction
 
 <table>
   <tr>
